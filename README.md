@@ -21,8 +21,6 @@ https://github.com/RoshaniChalak05/Mobile_sales_data/upload/main
 📌 Top Performing Brands (Total Sales & Quantity):
 Xiaomi (6107299) and Apple (6769613) lead in total sales and quantity.
 Samsung and OnePlus follow closely, showing strong competition.
-📌 Best-Selling Mobile Models:
-Redmi Note and iPhone SE are the top-selling models.
-Galaxy and OnePlus models also perform well but lag behind top sellers.
-#Conclusion
+
+# Conclusion
 The insights gained from this dashboard can help businesses optimize inventory, enhance customer experience, and refine marketing strategies. By leveraging top-performing brands and understanding customer preferences, companies can drive higher sales and customer loyalty.
