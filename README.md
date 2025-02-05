@@ -9,14 +9,14 @@ https://github.com/RoshaniChalak05/Mobile_sales_data/upload/main
 
 # Project Insights 
 1. Sales Performance Insights
-Total Sales: 26M in revenue indicates strong sales performance.
+Total Sales: 26M in revenue indicates strong sales performance.\\
 Transactions: 131 total transactions show moderate customer engagement.
 Average Sales Value: 40K per transaction suggests high-value purchases.
 Sales Trend: Peaks in sales occur on certain days, indicating promotional events or demand spikes.
 
 2. Customer Ratings Analysis
-   Highest Ratings (5 Stars): 120 customers rated at 5 stars, showing high satisfaction.
-   Lower Ratings (2 & 1 Stars): Small number of customers gave poor ratings, indicating minimal dissatisfaction.
+Highest Ratings (5 Stars): 120 customers rated at 5 stars, showing high satisfaction.
+Lower Ratings (2 & 1 Stars): Small number of customers gave poor ratings, indicating minimal dissatisfaction.
 
 3. Mobile Brand & Model Performance
 Top Performing Brands (Total Sales & Quantity):
