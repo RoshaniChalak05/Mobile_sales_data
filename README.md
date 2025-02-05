@@ -9,7 +9,7 @@ https://github.com/RoshaniChalak05/Mobile_sales_data/upload/main
 
 # Project Insights 
 1. Sales Performance Insights
-Total Sales: 26M in revenue indicates strong sales performance.\\
+Total Sales: 26M in revenue indicates strong sales performance.
 Transactions: 131 total transactions show moderate customer engagement.
 Average Sales Value: 40K per transaction suggests high-value purchases.
 Sales Trend: Peaks in sales occur on certain days, indicating promotional events or demand spikes.
